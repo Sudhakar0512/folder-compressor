@@ -1,0 +1,16 @@
+{
+  "name": "folder-compressor",
+  "version": "1.0.0",
+  "description": "used for compress the whole folder files eg: jpg,jpeg,png,gif",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sudhakar0512/folder-compressor.git"
+},
+  "author": "Sudhakar0512",
+  "license": "ISC",
+  "homepage":"https://github.com/Sudhakar0512/folder-compressor.git#readme"
+}
