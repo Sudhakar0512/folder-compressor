@@ -1,5 +1,5 @@
 {
-  "name": "folder-compressor",
+  "name": "@Sudhakar0512/folder-compressor",
   "version": "1.0.0",
   "description": "used for compress the whole folder files eg: jpg,jpeg,png,gif",
   "main": "index.js",
@@ -12,5 +12,5 @@
 },
   "author": "Sudhakar0512",
   "license": "ISC",
-  "homepage":"https://github.com/Sudhakar0512/folder-compressor.git#readme"
+  "homepage":"https://github.com/Sudhakar0512/folder-compressor#readme"
 }
